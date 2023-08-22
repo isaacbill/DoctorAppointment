@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Doctor Appointment</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="password">Password</string>
+    <string name="username">username</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="fullname">Full name</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Already have an account? <u>Login</u></string>
+    <string name="signuphere">Create a new Account <u>Signup</u> here</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
